@@ -18,4 +18,8 @@
 
 * [Unix System only] (https://pymotw.com/2/socket/tcp.html)
 
+### E-books for engineers
+
+* [Site-ul de la Dragos] (https://it-ebooks.info)
+
 
