@@ -22,4 +22,9 @@
 
 * [Site-ul de la Dragos] (https://it-ebooks.info)
 
+### Free STM32 Development for Linux
+
+* [Open STM 32] (http://www.openstm32.org/Downloading+the+System+Workbench+for+STM32+installer)
+* [ STM32Cube] (http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1533/PF259242?s_searchtype=partnumber#)
+
 
