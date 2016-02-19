@@ -26,5 +26,12 @@
 
 * [Open STM 32] (http://www.openstm32.org/Downloading+the+System+Workbench+for+STM32+installer)
 * [ STM32Cube] (http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1533/PF259242?s_searchtype=partnumber#)
+* Need to install ST-Link on Linux
+
+### Learn 
+
+* [Fast boot Linux Mint] (http://community.linuxmint.com/tutorial/view/114)
+* [Python Web UI] (http://robotic-controls.com/learn/python-guis/python-web-ui-tornado)
+* [Install and try Fedora 23] (https://getfedora.org/en/workstation/)
 
 
